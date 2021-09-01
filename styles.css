@@ -1,0 +1,55 @@
+body{
+  font-family: monospace;
+  font-size: 18px;
+  background: lightcyan;
+}
+
+.title{
+  text-align: center;
+}
+
+.tags h3,p{
+  text-align: center;
+  justify-content: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+ .html-tags{
+  padding-left: 150px;
+  padding-right: 150px;
+ }
+
+.html-tags th, td {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+}
+
+.html-tags th{
+  background: darkblue;
+  color: #fff;
+  font-weight: bold;
+}
+
+
+.css h3,p{
+  text-align: center;
+  justify-content: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  }
+
+.css-properties{
+  margin-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.css-properties th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.css-properties th{
+  background: darkblue;
+  color: #fff;
+  font-weight: bold;
+}
